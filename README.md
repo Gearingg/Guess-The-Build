@@ -35,3 +35,6 @@ Contributing
 
 
 Contributions to this project are welcome. If you would like to contribute, please fork this repository and submit a pull request with your changes.
+
+
+Discord: https://discord.gg/J4575DzS7X
